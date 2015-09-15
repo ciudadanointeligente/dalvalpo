@@ -204,8 +204,8 @@ input[type='submit']:active {
 }
 
 .header-menu > .box {
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding-top: 5px;
+	height: 115px;
 }
 
 .header-menu.sticky > .box {
@@ -402,7 +402,7 @@ Navigation =========*/
 }
 
 .navbar-brand.logo > img {
-    max-height: 40px;
+    max-height: 85px;
     width: auto;
 }
 
@@ -438,9 +438,8 @@ Navigation =========*/
 }
 
 .navbar-collapse {
-	padding: 0;
+	padding: 20px;
 }
-
 
 
 /*--------------------
