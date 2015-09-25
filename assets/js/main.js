@@ -2,7 +2,7 @@
     "use strict";
 
     ///////////////////////////////////////////////////// Your
-    var venueAddress = "Grand Place, 1000, Brussels"; // Venue
+    var venueAddress = "Avda. Guillermo González Hontaneda 855, Playa Ancha, Valparaíso - Chile"; // Venue
     /////////////////////////////////////////////////// Adress
 
     var fn = {
@@ -30,7 +30,7 @@
             $("#map_canvas").gmap3({
                 map: {
                     options: {
-                        maxZoom: 15,
+                        maxZoom: 17,
                         streetViewControl: false,
                         panControl: true,
                         panControlOptions: {
